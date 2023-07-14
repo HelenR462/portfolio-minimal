@@ -1,8 +1,5 @@
-<img src="../../images/portfolio_website_Screenshot.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
+<img src="../../images/portfolio_website.png" alt="Gatsby Theme Portfolio Minimal Screenshot" width="700" />
 
-<a href="" target="_blank">
-<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud" />
-</a>
 
 # Gatsby Starter Portfolio Minimal Theme
 
