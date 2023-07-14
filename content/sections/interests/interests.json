@@ -3,76 +3,36 @@
     {
       "label": "HTML5",
       "image": {
-        "src": "../../images/joystick.png",
+        "src": "../../images/icons8-html5-48.png",
         "alt": ""
       }
     },
     {
       "label": "CSS",
       "image": {
-        "src": "../../images/notebook.png",
+        "src": "../../images/icons8-css3-48.png",
         "alt": ""
       }
     },
     {
       "label": "JavaScript",
       "image": {
-        "src": "../../images/nail-polish.png",
+        "src": "../../images/icons8-javascript-48.png",
         "alt": ""
       }
     },
     {
       "label": "React",
       "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "React",
-      "image": {
-        "src": "../../images/medium.png",
-        "alt": ""
-      }
-    },
-    {
-      "label": "",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "",
-      "image": {
-        "src": "",
-        "alt": ""
-      }
-    },
-    {
-      "label": "",
-      "image": {
-        "src": "",
+        "src": "../../images/icons8-react-40.png",
         "alt": ""
       }
     }
+       
+   
   ],
   "button": {
-    "visible": true,
+    "visible": false,
     "label": "",
     "initiallyShownInterests": 5
   }

@@ -3,59 +3,63 @@
     {
       "visible": true,
       "category": "",
-      "title": "Calculator App",
-      "description": "A basic calculator app, which performs addition, subtruction, multiplication and division. Working on this app was facinating and challenging at the same time",
-      "tags": ["HTML5, CSS3, JavaScript"],
+      "title": "Swapi API",
+      "description": "While working on this app, I was able to learn how API's work behind the scenes; sending requests to API, authenticating, and testing for errors on Postman. It was interesting to see the work involved through accessing organized data from an independent third party source. On this project, I also learned the most important aspects of app development; an app's functionality in solving problems, and the pleasant user experience (UI) it provides. ",
+      "tags": ["HTML5, CSS3, JavaScript, React, JSON, API, Postman"],
       "image": {
-        "src": "../../images/calculator app.png",
-        "alt": "Quick Setup",
-        "linkTo": ""
+        "src": "../../images/star_wars_api.png",
+        "alt": "",
+        "linkTo":  "https://master--astonishing-haupia-eb63f4.netlify.app/"
       },
       "links": [
         {
           "type": "",
-          "url": "https://github.com/HelenR462/Calculator-App"
-        },
-        {
-          "type": "",
-          "url": ""
+          "url": "https://github.com/HelenR462/-6-Star-Wars-API"
         }
       ]
     },
+   
     {
       "visible": true,
       "category": "",
       "title": "Expense Tracker",
-      "description": " The Expense Tracker app is my introduction to React, which reinforced JavaScript concepts. I found the component sectioning of React was easy to follow and work with.",
-      "tags": ["HTML5, CSS3, JavaScript, Node.js, React"],
+      "description": "The Expense Tracker app is my introduction to React, which reinforced JavaScript concepts.This app is created to track expenses and stay on budget. It adds the expense detail, which includes, pre set payment type, store, date, purchase-item and amount. There is a delete feature and total expense to help track expenses and saty on budget. I found the component sectioning of React was easy to follow and work with.",
+       "tags": ["HTML5, CSS3, JavaScript, Node.js, React"],
       "image": {
         "src": "../../images/expense_tracker.png",
-        "alt": "expense tracker"
+        "alt": "expense tracker",
+        "linkTo": "https://master--endearing-zabaione-dbb283.netlify.app/"
       },
       "links": [
         {
           "type": "",
-          "url": "https://master--endearing-zabaione-dbb283.netlify.app/"
+          "url": "https://github.com/HelenR462/Expense-Tracker"
         }
       ]
     },
+    
     {
       "visible": true,
       "category": "",
-      "title": "Swapi API",
-      "description": "Working on this app, it opend up the work of API behind the scenes. It was interesting to see the work involved to access organized data from independent third party sources",
-      "tags": ["HTML5, CSS3, JavaScript, Node.js, React, API"],
+      "title": "Calculator App",
+      "description": "This app is a basic calculator, which performs simple mathematical operations: addition, subtraction, multiplication and division. Working on this app was facinating and challenging at the same time.",
+      "tags": ["HTML5, CSS3, JavaScript"],
       "image": {
-        "src": "../../images/star_wars_api.png",
-        "alt": ""
+        "src": "../../images/Calc_App_Screenshot1.png",
+        "alt": "Quick Setup",
+        "linkTo": "https://helenr462.github.io/Calculator-App/"
       },
       "links": [
         {
           "type": "",
           "url": ""
+        },
+        {
+          "type": "",
+          "url": "https://github.com/HelenR462/Calculator-App"
         }
       ]
-    }
+       }
     
   ],
 

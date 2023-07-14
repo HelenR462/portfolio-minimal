@@ -1,8 +1,7 @@
 {
   "intro": "Hi",
   "heroPhoto": {
-    "src": "../../images/helen.png",
-    "alt": "My Photo"
+    "src": ""
   },
   "image": {
     "src": "../../images/waving-hand.png",
@@ -11,7 +10,7 @@
   "title": "My name is Helen",
   "subtitle": {
     "prefix": "I'm a   ",
-    "highlight": "Software Developer",
+    "highlight": "Self-taught Software Developer",
     "suffix": "."
   },
   "description": "Welcome to my portfolio.",
