@@ -3,13 +3,13 @@
     {
       "visible": true,
       "category": "",
-      "title": "Swapi API",
+      "title": "Star Wars API",
       "description": "While working on this app, I was able to learn how API's work behind the scenes; sending requests to API, authenticating, and testing for errors on Postman. It was interesting to see the work involved through accessing organized data from an independent third party source. On this project, I also learned the most important aspects of app development; an app's functionality in solving problems, and the pleasant user experience (UI) it provides. ",
       "tags": ["HTML5, CSS3, JavaScript, React, JSON, API, Postman"],
       "image": {
         "src": "../../images/star_wars_api.png",
         "alt": "",
-        "linkTo":  "https://master--astonishing-haupia-eb63f4.netlify.app/"
+        "linkTo":  "https://helenredae-star-wars-app.netlify.app/"
       },
       "links": [
         {
@@ -28,11 +28,11 @@
       "image": {
         "src": "../../images/expense_tracker.png",
         "alt": "expense tracker",
-        "linkTo": "https://master--endearing-zabaione-dbb283.netlify.app/"
+        "linkTo": "helenredae-expense-tracker.netlify.app"
       },
       "links": [
         {
-          "type": "",
+          "src": "",
           "url": "https://github.com/HelenR462/Expense-Tracker"
         }
       ]
@@ -51,12 +51,12 @@
       },
       "links": [
         {
-          "type": "",
-          "url": ""
+          "src": "",
+          "url": "https://github.com/HelenR462/Calculator-App"
         },
         {
           "type": "",
-          "url": "https://github.com/HelenR462/Calculator-App"
+          "url": ""
         }
       ]
        }

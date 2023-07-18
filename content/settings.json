@@ -1,7 +1,7 @@
 {
   "siteMetadata": {
     "language": "en",
-    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "siteUrl": "https://helen-redae-personal-website.netlify.app/",
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
@@ -12,7 +12,7 @@
       "behance": "https://behance.com",
       "github": "https://github.com/HelenR462",
       "medium": "",
-      "linkedin": "https://www.linkedin.com/in/helen-m-n-5122181a2/",
+      "linkedin": "https://www.linkedin.com/in/helen-redae/",
       "mail": "mailto:helenr@gmail.com"
     }
   },
