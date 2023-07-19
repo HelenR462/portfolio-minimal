@@ -1,14 +1,14 @@
 import React from "react";
 import {
   AboutSection,
-
+  
   ContactSection,
   HeroSection,
   InterestsSection,
   Page,
   ProjectsSection,
   Seo,
-} from " gatsby-theme-portfolio-minimal";
+} from "gatsby-theme-portfolio-minimal";
 
 export default function IndexPage() {
   return (
