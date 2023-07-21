@@ -33,7 +33,7 @@
       "image": {
         "src": "../../images/expense_tracker.png",
         "alt": "expense tracker",
-        "linkTo": "helenredae-expense-tracker.netlify.app"
+        "linkTo": "https://helenredae-expense-tracker.netlify.app/"
       }
     },
     
