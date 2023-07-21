@@ -34,6 +34,13 @@
         "src": "../../images/icons8-bootstrap-48.png",
         "alt": ""
       }
+    },
+    {
+      "label": "Node.js",
+      "image": {
+        "src": "../../images/icons8-node-js-48.png",
+        "alt": ""
+      }
     }
    
   ],

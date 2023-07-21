@@ -16,6 +16,9 @@
   "description": "Welcome to my portfolio.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github"],
-    "showIcons": false
+    "showIcons": true
   }
 }
+
+
+  
