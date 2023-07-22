@@ -8,9 +8,9 @@
      
        "tags": ["HTML5, CSS3, JavaScript, React, JSON, API, Postman"],
       "image": {
-        "src": "../../images/star_wars_api.png",
+        "src": "../../images/star_wars_api2.png",
         "alt": "",
-        "linkTo":  "https://helenredae-star-wars-app.netlify.app/"
+        "linkTo":  "https://helenredae-star-wars-api.netlify.app/"
       },
       "links": [
         {
