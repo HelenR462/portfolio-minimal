@@ -5,9 +5,8 @@
       "category": "",
       "title": "Star Wars API",
       "description": "While working on this app, I was able to learn how API's work behind the scenes; sending requests to API, authenticating, and testing for errors on Postman. It was interesting to see the work involved through accessing organized data from an independent third party source. On this project, I also learned the most important aspects of app development; an app's functionality in solving problems, and the pleasant user experience (UI) it provides. ",
-      "showIcons":"../.../images/icons8-github-30.png",
      
-      "tags": ["HTML5, CSS3, JavaScript, React, JSON, API, Postman"],
+       "tags": ["HTML5, CSS3, JavaScript, React, JSON, API, Postman"],
       "image": {
         "src": "../../images/star_wars_api.png",
         "alt": "",
@@ -16,7 +15,7 @@
       "links": [
         {
          
-          "type": "",
+          "type": "github",
           "url": "https://github.com/HelenR462/-6-Star-Wars-API.git"
          
         }
@@ -34,8 +33,18 @@
         "src": "../../images/expense_tracker.png",
         "alt": "expense tracker",
         "linkTo": "https://helenredae-expense-tracker.netlify.app/"
-      }
+      
     },
+
+    "links": [
+      {
+       
+        "type": "github",
+        "url": "https://github.com/HelenR462/expense-tracker.git"
+       
+      }
+    ]
+  },
     
     {
       "visible": true,
@@ -53,7 +62,7 @@
 
       "links": [
         {
-          "type": "",
+          "type": "github",
           "url": "https://github.com/HelenR462/Calculator-App.git"
           
         }
